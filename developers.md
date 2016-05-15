@@ -7,7 +7,7 @@ We’d like to improve our explanation of what Toptal is on our developers homep
 
 See [the billboard project](billboard.md) for a discussion of our target audience.
 
-The [mockup](developers.pdf) reflects a few changes to the site:
+The [mockup](developers.docx) reflects a few changes to the site:
 
 1. Added a testimonial section
   1. Title "What's it like to work with Toptal?"
@@ -15,7 +15,7 @@ The [mockup](developers.pdf) reflects a few changes to the site:
   2. Name, company name
   3. Link to developer hired
   4. Paragraph story
-    1. "I was nervous to hire externally, but this project was essential and was (so far) going nowhere. Toptal's risk-free trial period was what sold me. We had the design work for our website overhaul completed but couldn't get the various pieces to work together. Two days after I made the decision to get help through Toptal, (name) was up to speed on my problem and was already showing me some progress. After fours weeks of iterating and checking in over skype, (name) delivered a buttoned up website with code that my own developers can now handle. Now the website looks modern and our sales funnel is stronger than ever. 
+    1. "I was nervous to hire externally, but this project was essential and was (so far) going nowhere. Toptal's risk-free trial period was what sold me. We had the design work for our website overhaul completed but couldn't get the various pieces to work together. Two days after I made the decision to get help through Toptal, (name) was up to speed on my problem and was already showing me some progress. After four weeks of iterating and checking in over skype, (name) delivered a buttoned up website with code that my own developers can now handle. Now the website looks modern and our sales funnel is stronger than ever. 
 2. Pulled in some sections from the homepage
   1. Replaced reviews single line with more detail
   2. Replaced extensive list of skills with shorter list from homepage
@@ -23,7 +23,6 @@ The [mockup](developers.pdf) reflects a few changes to the site:
   1. Moved list of well-known corporate clients to below reviews section
   2. Moved detailed examples of our developers up
   3. Moved toptal in the news to next-to-bottom
-  4. 
 4. Updated wording
   1. "Check out some of our developers" to "Our developers cover every skillset, with world-class experience."
   2. Changed toptal logo in top left to match homepage, should link to homepage
