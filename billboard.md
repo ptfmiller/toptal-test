@@ -1,11 +1,22 @@
 
-### Problem statement
+## Summary 
 
-We are planning to invest $100k in a billboard ad to promote Toptal in San Francisco. We need your advice:
+The [billboard](billboard.pptx) is extremely simple. No images included, just the message.
 
+### Location
+I want a few things out a location:
++ The billboard itself (regardless of what's on it) stands out, so people will be more likely to notice
+  + Digital boards are therefore a plus
++ High traffic area
+  + Ideally commute traffic. If I knew more about people's working patterns in SF, I would want to pick a place that has more technology companies, since they are probably more likely to become clients.
++ Thriving, attractive surroundings, since we don't want to be associated with things that are broken-down or languishing
 
+### Measurement
+Combine a few methods:
++ Observe what lift you see in any stage of your funnel from a time period before the ad is placed through some time period after the ad is taken down for various geographic groups. Compare the growth in interest for the area targeted vs. the area without the ad.
++ Include a "how did you first hear about us" simple question for new clients signing up, which includes the billboard. If you have already been running this for a while, you should have an estimate of how often people fill this out. That will give a good base for scaling up the number of people who came through the billboard.
 
-
+Compare the incremental clients you estimate you have gained to the value of those clients. See the [brainstorm section](billboard.md#Valuation) for more details.
 
 
 ## Brainstorming the project
@@ -63,14 +74,14 @@ We have landed on the major points we want to come across in our billboard:
 
 ### Where would you put the billboard? Why?
 
-I am assuming we are open to the entire Bay Area. 
-
 I want a few things out a location:
 + The billboard itself (regardless of what's on it) stands out, so people will be more likely to notice
   + Digital boards are therefore a plus
 + High traffic area
   + Ideally commute traffic. If I knew more about people's working patterns in SF, I would want to pick a place that has more technology companies, since they are probably more likely to become clients.
 + Thriving, attractive surroundings, since we don't want to be associated with things that are broken-down or languishing
+
+I am following up with [Clear Channel](http://clearchanneloutdoor.com/products/bulletins/) to see what billboards they have available in SF. If I can get a straight response, I'll be able to put some more thought into exact location.
 
 **Cost considerations**
 
@@ -85,11 +96,13 @@ I want a few things out a location:
 Ideally, to measure the differential impact of the billboard, we would be able to run a controlled test, where some people see the billboard, and some people *who are the same in every other way* do not, and we know who belongs to each category. Obviously this is not possible. 
 
 Here are a few alternatives:
-+ Attempt to spatially target some portion of people (e.g. downtown SF) while excluding another portion that is somewhat comparable (e.g. Palo Alto). Observe what lift you see in any stage of your funnel from a time period before the ad is placed through some time period after the ad is taken down for both groups. Compare the growth in interest for the area targeted vs. the area without the ad.
++ Attempt to spatially target some portion of people (e.g. downtown SF) while excluding another portion that is somewhat comparable (e.g. South SF). Observe what lift you see in any stage of your funnel from a time period before the ad is placed through some time period after the ad is taken down for both groups. Compare the growth in interest for the area targeted vs. the area without the ad.
 + Include a "how did you first hear about us" simple question for new clients signing up, which includes the billboard. 
 + Include something that incentivises prospective clients to give some information from the billboard when they sign up. For example, a discount code.
 + Combination of these
  
 One important assumption is that when someone registers with us, we are able to know their location. If there is an address that the client fills in, that will probably do the trick.
+
+### Valuation
 
 Once you have measured, it's a simple matter of determining whether the clients you obtained were worth the cost of the campaign. I would want to assign some value to our new clients based on what we know about our current clients, and their similarity to them. If we have good assumptions around the number of jobs, number of contractors/job, length of job, price we charge/time, and our revenue margin, it's a simple calculation: our revenue = number of jobs * number of contractors/job * length of job * price/time * our revenue margin. 
