@@ -16,7 +16,7 @@ Combine a few methods:
 + Observe what lift you see in any stage of your funnel from a time period before the ad is placed through some time period after the ad is taken down for various geographic groups. Compare the growth in interest for the area targeted vs. the area without the ad.
 + Include a "how did you first hear about us" simple question for new clients signing up, which includes the billboard. If you have already been running this for a while, you should have an estimate of how often people fill this out. That will give a good base for scaling up the number of people who came through the billboard.
 
-Compare the incremental clients you estimate you have gained to the value of those clients. See the [brainstorm section](billboard.md#Valuation) for more details.
+Compare the incremental clients you estimate you have gained to the value of those clients. See the [brainstorm section](billboard.md#valuation) for more details.
 
 
 ## Brainstorming the project
